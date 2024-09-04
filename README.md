@@ -15,7 +15,7 @@ npx tsc
 
 npm yarn pnpm
 
-* with Visual Studio *
+with Visual Studio 
 For most project types, you can get TypeScript as a package in Nuget for your MSBuild projects, for example an ASP.NET Core app.
 
 When using Nuget, you can install TypeScript through Visual Studio using:
